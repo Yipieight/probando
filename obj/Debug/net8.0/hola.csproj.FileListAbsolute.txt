@@ -1,0 +1,5 @@
+/Users/josegarcia/Documents/GitHub/hola/obj/Debug/net8.0/hola.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josegarcia/Documents/GitHub/hola/obj/Debug/net8.0/hola.AssemblyInfoInputs.cache
+/Users/josegarcia/Documents/GitHub/hola/obj/Debug/net8.0/hola.AssemblyInfo.cs
+/Users/josegarcia/Documents/GitHub/hola/obj/Debug/net8.0/hola.csproj.CoreCompileInputs.cache
+/Users/josegarcia/Documents/GitHub/hola/obj/Debug/net8.0/hola.sourcelink.json
